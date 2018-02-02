@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# Image files
+*.png
+*.ppm
+*.jpg
+*.jpeg
+*.gif
+
+# Emacs backups
+~*
